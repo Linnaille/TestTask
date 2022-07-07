@@ -42,7 +42,7 @@ public class YandexMarket {
     }
 
     /**
-     * метод для ввода запроса
+     * метод для клика на второй элемент подсказок
      */
     public void clickSuggest() {
         secondSuggestPopup.click(); }
